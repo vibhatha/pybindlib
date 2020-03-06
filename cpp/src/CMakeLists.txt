@@ -1,0 +1,1 @@
+add_library(pybindlibx SHARED core/library.h core/library.cpp)

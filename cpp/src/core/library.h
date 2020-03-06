@@ -1,0 +1,6 @@
+#ifndef PYBINDLIB_LIBRARY_H
+#define PYBINDLIB_LIBRARY_H
+
+void hello();
+
+#endif //PYBINDLIB_LIBRARY_H

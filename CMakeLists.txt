@@ -7,3 +7,4 @@ add_subdirectory(cpp/src)
 
 find_package(pybind11 REQUIRED)
 pybind11_add_module(pybindlib cpp/src/pybind/pybindlib.cpp)
+pybind11_add_module(metalib cpp/src/pybind/metalib.cpp)

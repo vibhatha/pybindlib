@@ -16,5 +16,4 @@ PYBIND11_MODULE(pybindlib, m) {
             .def("getMessage", &Request::getMessage)
             .def("setBufSize", &Request::setBufSize)
             .def("getBufSize", &Request::getBufSize);
-
 }

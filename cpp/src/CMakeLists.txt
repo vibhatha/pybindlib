@@ -1,1 +1,1 @@
-add_library(pybindlibx SHARED core/library.h core/library.cpp)
+add_library(pybindlibx SHARED core/library.h core/library.cpp meta/Info.h meta/Info.cpp meta/Record.h meta/Record.cpp)
